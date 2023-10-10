@@ -1,3 +1,2 @@
 # project1
-My first demo project
-by - kamesh
+My Naan Mudhalvan project
