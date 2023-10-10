@@ -1,2 +1,2 @@
-# project1
+# IOT_Project
 My Naan Mudhalvan project
